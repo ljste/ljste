@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="112" viewBox="0 0 1000 112" role="img" aria-labelledby="title desc">
+  <title id="title">Lucas Steinmetz, Software Engineer</title>
+  <desc id="desc">A restrained title card with subtle analog color registration.</desc>
+
+  <style>
+    .card {
+      transform-origin: 50% 50%;
+      animation: title-in 900ms cubic-bezier(.2,.8,.2,1) both;
+    }
+    .ghost {
+      animation: registration 7s steps(1, end) infinite;
+    }
+    .scanline {
+      animation: scan 8s linear infinite;
+    }
+    @keyframes title-in {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes registration {
+      0%, 92%, 100% { transform: translate(0, 0); opacity: .18; }
+      93% { transform: translate(2px, 0); opacity: .32; }
+      94% { transform: translate(-1px, 1px); opacity: .24; }
+    }
+    @keyframes scan {
+      from { transform: translateY(-8px); }
+      to { transform: translateY(120px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .card, .ghost, .scanline { animation: none; }
+    }
+  </style>
+
+  <g class="card">
+    <path d="M168 20H832" stroke="#484868" stroke-width="1"/>
+    <path d="M244 93H756" stroke="#986868" stroke-width="1"/>
+
+    <text class="ghost" x="502" y="64" text-anchor="middle" fill="#681818" opacity=".18"
+      font-family="Arial Narrow, Trebuchet MS, sans-serif" font-size="42" font-weight="700" letter-spacing="8">LUCAS STEINMETZ</text>
+    <text x="500" y="62" text-anchor="middle" fill="#D8D4E0"
+      font-family="Arial Narrow, Trebuchet MS, sans-serif" font-size="42" font-weight="700" letter-spacing="8">LUCAS STEINMETZ</text>
+    <text x="500" y="86" text-anchor="middle" fill="#9C9CB4"
+      font-family="Courier New, monospace" font-size="13" letter-spacing="5">SOFTWARE ENGINEER</text>
+
+    <circle cx="154" cy="20" r="3" fill="#A87868"/>
+    <circle cx="846" cy="20" r="3" fill="#8888A8"/>
+  </g>
+
+  <rect class="scanline" x="0" y="0" width="1000" height="1" fill="#F3EEF4" opacity=".08"/>
+</svg>

@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/moon-divider.svg" width="100%" alt="Decorative crescent divider">
+  <img src="./assets/signal-divider.svg" width="100%" alt="Animated analog signal divider">
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/moon-divider.svg" width="100%" alt="Decorative crescent divider">
+  <img src="./assets/signal-divider.svg" width="100%" alt="Animated analog signal divider">
 </p>
 
 <p>
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/moon-divider.svg" width="100%" alt="Decorative crescent divider">
+  <img src="./assets/signal-divider.svg" width="100%" alt="Animated analog signal divider">
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 > Evaluated 18 supervised-learning models on a clinical dataset of 300 pediatric TBI patients to predict mortality and functional outcomes.
 
 <p align="center">
-  <img src="./assets/moon-divider.svg" width="100%" alt="Decorative crescent divider">
+  <img src="./assets/signal-divider.svg" width="100%" alt="Animated analog signal divider">
 </p>
 
 <p>
@@ -92,7 +92,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/moon-divider.svg" width="100%" alt="Decorative crescent divider">
+  <img src="./assets/signal-divider.svg" width="100%" alt="Animated analog signal divider">
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/moon-divider.svg" width="100%" alt="Decorative crescent divider">
+  <img src="./assets/signal-divider.svg" width="100%" alt="Animated analog signal divider">
 </p>
 
 <picture>
@@ -114,5 +114,5 @@
 </picture>
 
 <p align="center">
-  <img src="./assets/moon-divider.svg" width="100%" alt="Decorative crescent divider">
+  <img src="./assets/signal-divider.svg" width="100%" alt="Animated analog signal divider">
 </p>

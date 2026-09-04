@@ -46,49 +46,47 @@
 </p>
 
 <p>
-  <strong><a href="https://github.com/ljste/stowaway">stowaway</a></strong> · <code>Rust</code> <code>macOS</code> <code>Sandboxing</code>
+  <a href="https://www.textmaddie.com/"><img src="./assets/link-text-maddie.svg" width="360" alt="Text Maddie — visit website"></a>
   <br>
-  Runs commands in a disposable home directory with deny-by-default filesystem controls.
+  Product engineering for an AI agent that reaches leads and customers through iMessage, handles follow-up, and books directly into calendars.
 </p>
 
 <p>
-  <strong><a href="https://github.com/ljste/gonuke">gonuke</a></strong> · <code>Go</code> <code>CLI</code> <code>Processes</code>
+  <a href="https://studiortf.com/"><img src="./assets/link-studio-rtf.svg" width="360" alt="Studio RTF — visit website"></a>
   <br>
-  Finds and terminates matching processes with dry runs, signals, and confirmation safeguards.
-</p>
-
-<p>
-  <strong><a href="https://github.com/ljste/rustproxy">rustproxy</a></strong> · <code>Rust</code> <code>Tokio</code> <code>Networking</code>
-  <br>
-  An asynchronous TCP proxy with bidirectional hex dumps, file logging, and byte totals.
+  Tailored agents, applications, systems, and interfaces. The client portfolio books more than $4M in revenue each month.
 </p>
 
 <p align="center">
   <img src="./assets/signal-divider-3.svg" width="100%" alt="Animated analog signal divider">
 </p>
 
-<p align="center">
-  <a href="https://ieeexplore.ieee.org/document/10903785"><img src="https://img.shields.io/badge/IEEE%20CCWC%202025-PUBLISHED-681818?style=flat-square&amp;logo=ieee&amp;logoColor=F3EEF4" alt="Published at IEEE CCWC 2025"></a>
+<p>
+  <a href="https://ieeexplore.ieee.org/document/10903785"><img src="./assets/link-research.svg" width="280" alt="IEEE CCWC 2025 — read the published paper"></a>
+  <br>
+  <sub><strong>Predicting Mortality and Functional Status Scores of Traumatic Brain Injury Patients using Supervised Machine Learning</strong><br>Evaluated 18 supervised-learning models on a clinical dataset of 300 pediatric TBI patients to predict mortality and functional outcomes.</sub>
 </p>
-
-> **[Predicting Mortality and Functional Status Scores of Traumatic Brain Injury Patients using Supervised Machine Learning](https://ieeexplore.ieee.org/document/10903785)**
->
-> Evaluated 18 supervised-learning models on a clinical dataset of 300 pediatric TBI patients to predict mortality and functional outcomes.
 
 <p align="center">
   <img src="./assets/signal-divider-4.svg" width="100%" alt="Animated analog signal divider">
 </p>
 
 <p>
-  <strong><a href="https://www.textmaddie.com/">Text Maddie</a></strong>
+  <a href="https://github.com/ljste/stowaway"><img src="./assets/link-stowaway.svg" width="280" alt="stowaway — open GitHub repository"></a>
   <br>
-  Product engineering for an AI agent that reaches leads and customers through iMessage, handles follow-up, and books directly into calendars.
+  <sub>Runs commands in a disposable home directory with deny-by-default filesystem controls.</sub>
 </p>
 
 <p>
-  <strong><a href="https://studiortf.com/">Studio RTF</a></strong>
+  <a href="https://github.com/ljste/gonuke"><img src="./assets/link-gonuke.svg" width="280" alt="gonuke — open GitHub repository"></a>
   <br>
-  Tailored agents, applications, systems, and interfaces. The client portfolio books more than $4M in revenue each month.
+  <sub>Finds and terminates matching processes with dry runs, signals, and confirmation safeguards.</sub>
+</p>
+
+<p>
+  <a href="https://github.com/ljste/rustproxy"><img src="./assets/link-rustproxy.svg" width="280" alt="rustproxy — open GitHub repository"></a>
+  <br>
+  <sub>An asynchronous TCP proxy with bidirectional hex dumps, file logging, and byte totals.</sub>
 </p>
 
 <p align="center">

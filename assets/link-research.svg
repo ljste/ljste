@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="36" viewBox="0 0 280 36" role="img" aria-labelledby="title desc">
+  <title id="title">IEEE CCWC 2025</title>
+  <desc id="desc">Open the published IEEE research paper</desc>
+  <path d="M1 5H267L279 17V31H1Z" fill="#181828" stroke="#3D3D59"/>
+  <path d="M1 5H4V31H1Z" fill="#681818" opacity=".8"/>
+  <path d="M10 28.5H199" stroke="#78545F" stroke-width=".7" opacity=".65"/>
+  <path d="M204 28.5H256" stroke="#686880" stroke-width=".7" stroke-dasharray="2 4" opacity=".55"/>
+  <circle cx="268" cy="7.5" r="1.5" fill="#9C98AB"/>
+  <text x="11" y="22.5" fill="#B8B4C4"
+    font-family="Arial Narrow, Trebuchet MS, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1.6">IEEE CCWC 2025</text>
+  <text x="251" y="21.8" text-anchor="end" fill="#858296"
+    font-family="Courier New, monospace" font-size="6.5" font-weight="700" letter-spacing=".6">READ PAPER</text>
+  <path d="M259 14H268V23M268 14L258 24" fill="none" stroke="#78545F" stroke-width="1.3" stroke-linecap="square" stroke-linejoin="miter"/>
+</svg>
